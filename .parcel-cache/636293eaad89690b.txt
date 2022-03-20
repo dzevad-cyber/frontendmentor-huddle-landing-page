@@ -1,18 +1,20 @@
-6440
+6443
 116/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/README-template.md1615328014000000000 0
 106/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/clamp.ts1647771066057746800 0
+126/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist/bg-desktop.40e9c580.svg1647779673097746800 0
 125/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist/instagram.6980965e.svg1647776921887746800 0
-113/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist/index.html1647776921887746800 0
+113/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist/index.html1647779175517746800 0
 120/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist/logo.cd13699a.svg1647776921887746800 0
 125/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist/bg-mobile.f6fa38de.svg1647776921887746800 0
 129/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist/favicon-32x32.3a4ddde5.png1647776921897746800 0
 178/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist/huddle-landing-page-with-single-introductory-section-master.59712999.js.map1647776921907746800 0
-108/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/.gitignore1647731088084175800 0
-112/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/index.html1647776603267746800 0
+108/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/.gitignore1647777172007746800 0
+112/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/index.html1647779175337746800 0
+146/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/images/screenshot-finish.png:Zone.Identifier1647787437863792000 0
 121/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/images/facebook.svg1647773700037746800 0
 120/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/images/twitter.svg1647773686367746800 0
 122/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/images/instagram.svg1647773673247746800 0
-108/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/images1647773327037746800 1
+108/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/images1647787450947746800 1
 126/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/design/active-states.jpg1615328014000000000 0
 127/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/design/desktop-design.jpg1615328014000000000 0
 108/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/design1647731035714175800 1
@@ -351,7 +353,7 @@
 156/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/caniuse-lite/data/features/iframe-seamless.js1647731139374175800 0
 153/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/caniuse-lite/data/features/font-loading.js1647731139314175800 0
 150/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/caniuse-lite/data/features/shadowdom.js1647731139734175800 0
-124/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/sass/base/_global.scss1647769362977746800 0
+124/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/sass/base/_global.scss1647787467617746800 0
 163/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/caniuse-lite/data/features/indeterminate-checkbox.js1647731139384175800 0
 155/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/caniuse-lite/data/features/iframe-sandbox.js1647731139374175800 0
 158/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/caniuse-lite/data/features/sharedarraybuffer.js1647731139734175800 0
@@ -1577,7 +1579,7 @@
 161/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/@parcel/transformer-react-refresh-wrap/src/helpers1647731137724175800 1
 149/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/@parcel/transformer-react-refresh-wrap1647731137754175800 1
 149/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/@parcel/optimizer-cssnano/package.json1647731137414175800 0
-121/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist/index.f7626f62.css1647777135767746800 0
+121/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist/index.f7626f62.css1647787467787746800 0
 144/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/caniuse-lite/data/features/eme.js1647731139264175800 0
 160/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/@parcel/optimizer-cssnano/src/CSSNanoOptimizer.js1647731137364175800 0
 150/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/@parcel/node-resolver-core/test/fixture1647731139094175800 1
@@ -2373,7 +2375,7 @@
 132/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/@parcel/cache/LICENSE1647731137074175800 0
 137/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/@parcel/cache/lib/types.js1647731137744175800 0
 127/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/lodash/isDate.js1647731139584175800 0
-126/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/sass/pages/_landing.scss1647777112547746800 0
+126/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/sass/pages/_landing.scss1647787409697746800 0
 143/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/@swc/helpers/src/_await_value.js1647731138534175800 0
 137/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/@parcel/graph/lib/types.js1647731138044175800 0
 143/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/fs-extra/lib/json/output-json.js1647731138214175800 0
@@ -3239,7 +3241,7 @@
 127/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/@swc/helpers/src1647731138794175800 1
 134/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/lmdb/dist/index.cjs.map1647731139154175800 0
 139/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/@parcel/transformer-sass/lib1647732639544175800 1
-125/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist/index.f7626f62.css.map1647777135767746800 0
+125/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist/index.f7626f62.css.map1647787467787746800 0
 132/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/node-gyp-build/bin.js1647731137124175800 0
 158/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/@parcel/transformer-image/lib/validateConfig.js1647731137554175800 0
 130/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/lodash/_nodeUtil.js1647731139124175800 0
@@ -5476,7 +5478,7 @@
 159/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/@parcel/transformer-babel/lib/babelErrorUtils.js1647731137414175800 0
 155/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/css-select/lib/pseudo-selectors/aliases.d.ts1647731138124175800 0
 134/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/async/internal/queue.js1647731138694175800 0
-102/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist1647777135767746800 1
+102/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/dist1647787467797746800 1
 129/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/async/retryable.js1647731138744175800 0
 147/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/utility-types/dist/mapped-types.d.ts1647731137894175800 0
 145/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/caniuse-lite/data/features/ping.js1647731139664175800 0
@@ -6153,6 +6155,7 @@
 136/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/json-source-map/README.md1647731137404175800 0
 130/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/escalade/index.d.ts1647731137584175800 0
 135/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/json-source-map/index.js1647731137284175800 0
+130/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/src/images/screenshot-finish.png1647787437863792000 0
 138/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/domutils/lib/stringify.d.ts1647731138054175800 0
 135/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/pinkie-promise/readme.md1647731137304175800 0
 132/home/manson/frontend/frontend-mentor/huddle-landing-page-with-single-introductory-section-master/node_modules/dotenv-expand/LICENSE1647731137294175800 0
