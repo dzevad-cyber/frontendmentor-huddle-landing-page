@@ -1,0 +1,81 @@
+@use '../abstracts/colors' as *;
+@use '../abstracts/typography' as *;
+
+.main {
+  background-color: $clr-primary-100;
+  background-image: url('../images/bg-mobile.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 0 3rem;
+
+  display: grid;
+  row-gap: 5rem;
+}
+
+.header {
+  padding-top: 3rem;
+
+  &__logo {
+    width: max(150px, 14vw);
+  }
+}
+
+.huddle {
+  display: grid;
+  row-gap: 6rem;
+  justify-content: center;
+  justify-items: center;
+  min-height: 100vh;
+  grid-auto-rows: min-content;
+  padding-bottom: 2rem;
+
+  &__illustration {
+    width: min(100%, 700px);
+  }
+
+  &__body {
+    display: grid;
+    row-gap: 2rem;
+  }
+
+  &__title {
+    font-family: $ff-popins;
+    font-size: $fz-title-fluid;
+    font-weight: $fw-popins-600;
+    color: $clr-primary-white;
+    text-align: center;
+    line-height: 1.3;
+  }
+
+  &__about {
+    font-family: $ff-open-sans;
+    font-weight: $fw-open-sans-300;
+    color: $clr-primary-white;
+    font-size: $fz-text-fluid;
+    text-align: center;
+    letter-spacing: 0.5px;
+  }
+
+  &__btn {
+    all: unset;
+
+    cursor: pointer;
+    padding: 1rem 8.5rem;
+    border-radius: 50px;
+    background-color: $clr-primary-white;
+    font-family: $ff-popins;
+    font-size: $fz-text-min;
+    color: $clr-primary-100;
+  }
+}
+
+.social-list {
+  display: grid;
+  grid-auto-flow: column;
+  column-gap: 1.5rem;
+
+  &__item {
+    width: 20px;
+    height: 20px;
+  }
+}

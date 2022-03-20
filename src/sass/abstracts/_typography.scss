@@ -1,0 +1,23 @@
+$ff-popins: 'Poppins', sans-serif;
+$ff-open-sans: 'Open Sans', sans-serif;
+
+$fw-base: 1.6rem;
+
+// title
+$fz-base: 1.6rem;
+$fz-title-min: 2.5rem;
+$fz-title-max: 5rem;
+$fz-title-fluid: clamp($fz-title-min, 0rem + 6.25vw, $fz-title-max);
+
+// text
+$fz-text-min: 1.4rem;
+$fz-text-max: 2rem;
+$fz-text-fluid: clamp($fz-text-min, 0.6rem + 1.75vw, $fz-text-max);
+
+// font family popins
+$fw-popins-400: 400;
+$fw-popins-600: 600;
+
+// font family open-sans
+$fw-open-sans-300: 300;
+$fw-open-sans-400: 400;
