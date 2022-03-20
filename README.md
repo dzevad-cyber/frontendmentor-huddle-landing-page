@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/lulzz/frontendmentor-huddle-landing-page)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://lulzz.github.io/frontendmentor-huddle-landing-page/)
 
 ### Built with
 
