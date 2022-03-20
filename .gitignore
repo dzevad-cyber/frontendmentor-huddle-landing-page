@@ -1,5 +1,5 @@
 node_modules/
-.parce-cache
+.parcel-cache
 dist/
 
 # Avoid accidental Sketch file upload 

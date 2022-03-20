@@ -11,7 +11,7 @@ $fz-title-fluid: clamp($fz-title-min, 0rem + 6.25vw, $fz-title-max);
 
 // text
 $fz-text-min: 1.4rem;
-$fz-text-max: 2rem;
+$fz-text-max: 1.8rem;
 $fz-text-fluid: clamp($fz-text-min, 0.6rem + 1.75vw, $fz-text-max);
 
 // font family popins
